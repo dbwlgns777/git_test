@@ -2,6 +2,9 @@ public class secondClass
 {
     public void testFunction()
     {
-        String test = "test";
+        for(int i = 0; i < 9; i++)
+        {
+            System.out.println("for 문 update =>" + i);
+        }
     }
 }
