@@ -6,5 +6,7 @@ public class secondClass
         {
             System.out.println("for 문 update =>" + i);
         }
+
+        System.out.println("branch_1 Test Update");
     }
 }
